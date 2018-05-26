@@ -1,0 +1,39 @@
+gen_random n=2 m=1 k=4 58724 > $
+gen_random n=30 m=100 k=4 58726 > $
+gen_random n=3 m=3 k=3 58725 > $
+gen_random n=100 m=100 k=4 58727 > $
+gen_star n=100 k=4 extra=1 58731 > $
+gen_random n=50 m=100 k=1 58730 > $
+gen_random n=50 m=100 k=3 58728 > $
+gen_random n=50 m=100 k=2 58729 > $
+gen_manycomponents n=100 m=100 k=4 compsize=5 58733 > $
+gen_halfstar n=60 extra=40 58732 > $
+gen_random n=800 m=300000 k=3 58735 > $
+gen_random n=5000 m=300000 k=3 58734 > $
+gen_random n=300000 m=300000 k=3 58736 > $
+gen_random n=30000 m=300000 k=2 58737 > $
+gen_random n=30000 m=300000 k=1 58738 > $
+gen_star n=200000 k=3 extra=100000 58739 > $
+gen_manycomponents n=300000 m=300000 k=3 compsize=400 58740 > $
+gen_manycomponents n=300000 m=300000 k=3 compsize=4 58741 > $
+gen_random n=800 m=300000 k=4 58742 > $
+gen_star n=150000 k=4 extra=150000 58745 > $
+gen_random n=300000 m=300000 k=4 58744 > $
+gen_random n=8000 m=300000 k=4 58743 > $
+gen_manycomponents n=300000 m=300000 k=4 compsize=450 58747 > $
+gen_halfstar n=150000 extra=150000 58746 > $
+gen_random n=2 m=1 k=5 58748 > $
+gen_random n=100000 m=100000 k=5 58750 > $
+gen_star n=50000 k=5 extra=40000 58751 > $
+gen_random n=480 m=100000 k=5 58749 > $
+gen_doublestar n=50000 extra=30000 58753 > $
+gen_doublestar n=75000 58752 > $
+gen_manycomponents n=100000 m=100000 k=5 compsize=300 58754 > $
+gen_manycomponents n=100000 m=100000 k=5 compsize=6 58755 > $
+gen_random n=480 m=100000 k=3 58756 > $
+gen_star n=100000 k=3 58758 > $
+gen_random n=100000 m=100000 k=3 58757 > $
+gen_random n=480 m=100000 k=4 58759 > $
+gen_star n=100000 k=4 58761 > $
+gen_random n=100000 m=100000 k=4 58760 > $
+gen_halfstar n=100000 58762 > $

@@ -1,0 +1,114 @@
+gen-doubled n=99 m=100 type=id a=4 58725 > $
+gen-random n=10 m=3 k=1 a=2 58726 > $
+gen-hadamard-flips n=81 its=2 late=1 a=3 58727 > $
+gen-hadamard-flips n=96 its=3 late=1 a=2 58724 > $
+gen-random n=100 m=100 k=60 a=4 58730 > $
+gen-random n=100 m=100 k=1 a=2 58728 > $
+gen-random n=100 m=10 k=5 a=3 58731 > $
+gen-random n=100 m=100 k=2 a=3 58729 > $
+gen-random n=10 m=100 k=4 a=2 58732 > $
+gen-hadamard-flips n=96 its=3 a=4 gena=2 58735 > $
+gen-hadamard-flips n=64 late=1 a=4 58734 > $
+gen-hadamard-flips n=4 a=2 58733 > $
+gen-doubled n=95 type=hadamard a=4 gena=2 58736 > $
+gen-doubled n=95 m=100 type=hadamard a=2 58737 > $
+gen-doubled n=47 m=100 type=hadamard adjoin=id a=3 gena=2 58738 > $
+gen-hadamard-oneimportantrow n=96 a=2 58739 > $
+gen-hadamard-oneimportantrow n=96 late=1 a=4 gena=2 58740 > $
+gen-hadamard-flips n=1728 its=3 late=1 a=2 58741 > $
+gen-random n=1800 m=1800 k=1 a=2 58744 > $
+gen-hadamard-oneimportantrow n=1728 m=1800 late=1 a=2 58743 > $
+gen-doubled n=1799 m=1800 type=id a=2 58742 > $
+gen-random n=1800 m=1799 k=10 a=2 58745 > $
+gen-random n=1799 m=1800 k=1000 a=2 58746 > $
+gen-hadamard-flips n=1728 a=2 58747 > $
+gen-hadamard-flips n=1728 late=1 a=2 58748 > $
+gen-hadamard-flips n=1728 its=3 a=2 58750 > $
+gen-hadamard-flips n=1728 its=3 a=2 58751 > $
+gen-hadamard-flips n=1728 its=3 a=2 58749 > $
+gen-hadamard-flips n=1728 its=2 a=2 58752 > $
+gen-hadamard-flips n=1728 its=2 late=1 a=2 58753 > $
+gen-doubled n=1151 type=hadamard a=2 58754 > $
+gen-doubled n=1799 realn=2047 m=1800 type=hadamard a=2 58755 > $
+gen-doubled n=1799 realn=2047 m=1800 type=hadamard a=2 58756 > $
+gen-doubled n=767 m=1800 type=hadamard adjoin=hadamard a=2 58757 > $
+gen-doubled n=767 m=1800 type=hadamard adjoin=id a=2 58758 > $
+gen-hadamard-oneimportantrow n=1536 a=2 58759 > $
+gen-hadamard-oneimportantrow n=1728 m=1798 a=2 58760 > $
+gen-hadamard-oneimportantrow n=1728 m=1800 a=2 58761 > $
+gen-hadamard-oneimportantrow n=1728 m=1800 a=2 58764 > $
+gen-hadamard-oneimportantrow n=1728 m=1800 a=2 58762 > $
+gen-hadamard-oneimportantrow n=1728 m=1800 a=2 58763 > $
+gen-hadamard-oneimportantrow n=1728 m=1800 a=2 58765 > $
+gen-hadamard-oneimportantrow n=1728 m=1800 a=2 58767 > $
+gen-hadamard-oneimportantrow n=1728 m=1800 a=2 58768 > $
+gen-hadamard-oneimportantrow n=1728 m=1800 a=2 58766 > $
+gen-hadamard-oneimportantrow n=1728 m=1800 a=2 58770 > $
+gen-hadamard-oneimportantrow n=1728 m=1800 a=2 58771 > $
+gen-hadamard-oneimportantrow n=1728 m=1800 a=2 58769 > $
+gen-hadamard-oneimportantrow n=1728 m=1800 a=2 58772 > $
+gen-doubled n=4099 m=4100 type=id a=2 58774 > $
+gen-hadamard-oneimportantrow n=4096 late=1 a=2 58775 > $
+gen-hadamard-flips n=4096 its=3 late=1 a=2 58773 > $
+gen-doubled n=3455 type=hadamard a=2 58776 > $
+gen-doubled n=4095 m=4100 type=hadamard a=2 58777 > $
+gen-hadamard-flips n=3456 a=2 58780 > $
+gen-doubled n=2047 m=4100 type=hadamard adjoin=hadamard a=2 58778 > $
+gen-doubled n=2047 m=4100 type=hadamard adjoin=id a=2 58779 > $
+gen-hadamard-flips n=4096 a=2 58782 > $
+gen-hadamard-flips n=4096 late=1 a=2 58783 > $
+gen-hadamard-flips n=4096 a=2 58781 > $
+gen-hadamard-flips n=4096 its=3 a=2 58784 > $
+gen-hadamard-flips n=4096 its=3 a=2 58785 > $
+gen-hadamard-flips n=4096 its=2 a=2 58786 > $
+gen-hadamard-flips n=4096 its=2 late=1 a=2 58787 > $
+gen-hadamard-oneimportantrow n=3456 m=4100 a=2 58788 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58790 > $
+gen-random n=4000 m=4000 k=1 a=2 58791 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58789 > $
+gen-random n=4000 m=4000 k=10 a=2 58792 > $
+gen-random n=4000 m=4000 k=1000 a=2 58793 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58796 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58794 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58795 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58798 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58799 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58797 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58800 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58802 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58804 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58801 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58803 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58806 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58805 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58807 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58808 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58809 > $
+gen-hadamard-oneimportantrow n=4096 a=2 58810 > $
+gen-doubled n=4099 m=4100 type=id a=4 58812 > $
+gen-hadamard-oneimportantrow n=4096 late=1 a=4 58813 > $
+gen-hadamard-flips n=4096 its=3 late=1 a=4 58811 > $
+gen-hadamard-oneimportantrow n=2187 m=4100 late=1 a=4 gena=3 58814 > $
+gen-doubled n=3455 type=hadamard a=3 gena=2 58815 > $
+gen-doubled n=4095 m=4100 type=hadamard a=2 58816 > $
+gen-doubled n=2047 m=4100 type=hadamard adjoin=hadamard a=4 gena=2 58817 > $
+gen-doubled n=2047 m=4100 type=hadamard adjoin=id a=4 58818 > $
+gen-hadamard-flips n=3456 a=4 gena=2 58819 > $
+gen-hadamard-flips n=4096 a=2 58820 > $
+gen-hadamard-flips n=4096 a=4 58821 > $
+gen-hadamard-flips n=4096 late=1 a=4 58822 > $
+gen-hadamard-flips n=4096 its=3 a=2 58824 > $
+gen-hadamard-flips n=4096 its=2 a=2 58825 > $
+gen-hadamard-flips n=4096 its=3 a=4 58823 > $
+gen-hadamard-flips n=4096 its=2 late=1 a=4 58826 > $
+gen-hadamard-oneimportantrow n=4096 a=3 gena=2 58828 > $
+gen-hadamard-oneimportantrow n=3456 m=4000 a=4 gena=2 58827 > $
+gen-hadamard-oneimportantrow n=4096 a=4 58829 > $
+gen-random n=4000 m=4000 k=1 a=4 58830 > $
+gen-random n=4000 m=4000 k=1000 a=4 58832 > $
+gen-hadamard-oneimportantrow n=4096 a=4 58833 > $
+gen-random n=4000 m=4000 k=10 a=2 58831 > $
+gen-hadamard-oneimportantrow n=4096 a=4 58834 > $
+gen-hadamard-oneimportantrow n=4096 a=4 58835 > $
+gen-hadamard-oneimportantrow n=4096 a=4 58837 > $
+gen-hadamard-oneimportantrow n=4096 a=4 58836 > $
